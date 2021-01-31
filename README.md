@@ -1,4 +1,4 @@
-# *K*-means Cluttering with Quantum Annealing Applied to Electoral Redistricting
+# *K*-means Clustering with Quantum Annealing Applied to Electoral Redistricting
 
 ## Introduction
 The past few presidential elections have faced tons of scrutiny with allegations of unfair voting practices, unfair access to voting centers, and racially-discriminatory electoral districts. If we were able to just have a computer decide district lines for us, could we potentially eliminate or, at least, ameliorate some of these criticisms? 
